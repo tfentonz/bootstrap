@@ -5,6 +5,7 @@
 ### brew
 
 * `brew install ack`
+* `brew install tmux`
 * `brew install tree`
 
 **binaries**
