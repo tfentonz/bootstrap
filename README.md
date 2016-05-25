@@ -15,4 +15,5 @@
 * `brew cask install dropbox`
 * `brew cask install macvim`
 * `brew cask install mysqlworkbench`
+* `brew cask install postman`
 * `brew cask install skype`
