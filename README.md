@@ -17,3 +17,7 @@
 * `brew cask install mysqlworkbench`
 * `brew cask install postman`
 * `brew cask install skype`
+
+GitHub Desktop
+
+* `brew cask install github-desktop` https://desktop.github.com/
